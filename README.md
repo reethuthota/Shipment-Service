@@ -82,16 +82,6 @@ This project is a decentralized application (DApp) built on Ethereum blockchain 
 
 3. Access the DApp in your browser at http://localhost:3000.
 
-
-## Usage
-
-- Connect to MetaMask or any Ethereum wallet that supports the Sepolia testnet.
-- Create orders by specifying items and quantities.
-- Track the status of your orders.
-- If you're the owner, mark orders as shipped and generate OTPs for customers to accept.
-- Customers can accept orders by providing the OTP generated during shipping.
-- Customers can cancel orders if they are still in the processing stage and receive refunds.
-
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
