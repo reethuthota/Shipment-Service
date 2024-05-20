@@ -26,7 +26,7 @@ This project is a decentralized application (DApp) built on Ethereum blockchain 
 1. Clone the repository:
    
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/reethuthota/Shipment-Service.git
    ```
 
 2. Install dependancies 
